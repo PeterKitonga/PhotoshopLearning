@@ -8,7 +8,7 @@ The layout consists of:
 - The ```Palettes``` at the right of the pane. This pane has some of the available palettes that one would use to manipulate color, layers, mini bridge e.t.c.
 
 ### Illustration
-![Illustration Example](illustration.png)
+![Illustration Example](../assets/images/illustration2.png)
 
 ### Online Course
 Visit [IACT](https://iact.ie) for the course
