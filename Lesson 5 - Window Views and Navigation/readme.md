@@ -1,4 +1,4 @@
-## About Lesson 3
+## About Lesson 5
 
 ### Brief
 In this lesson, I learnt how to toggle between the different views such as the standard view, docked view, full screen view with bars and without bars.

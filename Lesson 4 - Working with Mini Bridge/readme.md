@@ -1,4 +1,4 @@
-## About Lesson 3
+## About Lesson 4
 
 ### Brief
 In this lesson, I learnt about working with Mini Bridge where the I would be able to launch/open files and folders the same way as the main Bridge application.

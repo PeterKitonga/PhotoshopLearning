@@ -1,4 +1,4 @@
-## About Lesson 3
+## About Lesson 6
 
 ### Brief
 In this lesson, I learnt about the various color modes under ```Image > Modes``` menu where the RGB and CMYK modes reside. When each color mode is toggled, the Channels palette changes to accommodate colors for the selected mode. The main color modes that we would work with are:
