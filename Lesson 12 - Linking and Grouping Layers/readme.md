@@ -1,4 +1,4 @@
-## About Lesson 11
+## About Lesson 12
 
 ### Brief
 In this lesson, I learnt about linking and grouping layers which would allow as to move and select multiple layers at one go. To link or group layers, one must first select the layers that are to be edited together.
