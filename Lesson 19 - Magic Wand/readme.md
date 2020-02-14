@@ -1,4 +1,4 @@
-## About Lesson 18
+## About Lesson 19
 
 ### Brief
 In this lesson, I learnt about using the Magic Wand Tool which can be used to selected a section of a picture depending on the tolerance settings. The tolerance settings control how much is selected by identifying pixels of the same shade of color. The higher the tolerance the more accurate the selection.
