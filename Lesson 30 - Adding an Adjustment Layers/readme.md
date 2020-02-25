@@ -1,4 +1,4 @@
-## About Lesson 29
+## About Lesson 30
 
 ### Brief
 In this lesson, I learnt about adding adjustment layers. We add adjustment layers to images when we don't want to permanently apply adjustments under the menu Image > Adjustments. This is advantageous because we can work with the layer and apply the various hue/saturation, brightness/contrast, gradients e.t.c without permanently affecting the image.
