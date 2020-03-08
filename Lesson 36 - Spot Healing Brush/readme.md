@@ -1,7 +1,7 @@
 ## About Lesson 36
 
 ### Brief
-In this lesson, I was introduce to one of the repair tools, the Spot Healing Brush tool. Repair tools in Photoshop include:
+In this lesson, I was introduced to one of the repair tools, the Spot Healing Brush tool. Repair tools in Photoshop include:
 - Spot Healing Brush Tool
 - Healing Brush Tool
 - Patch Tool
