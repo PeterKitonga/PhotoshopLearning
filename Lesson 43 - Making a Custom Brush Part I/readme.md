@@ -5,7 +5,7 @@ In this lesson, I learnt about creating a custom brush preset from an image. I f
 
 ### Illustrations
 
-In this illustration, I used first used the Magic wand tool to select the black pixels of the image and then used the menu Select > Similar to select all black pixels that had not been selected. I then inversed the selection via menu Select > Inverse and pressed on the Backspace key to remove the selection. After that I created the brush preset via the menu Edit > Define Brush Preset. This opens a window for entering the custom name of the preset.
+In this illustration, I first used the Magic wand tool to select the black pixels of the image and then used the menu Select > Similar to select all black pixels that had not been selected. I then inversed the selection via menu Select > Inverse and pressed on the Backspace key to remove the selection. After that I created the brush preset via the menu Edit > Define Brush Preset. This opens a window for entering the custom name of the preset.
 
 ![Illustration Example](../assets/images/illustration74.png)
 
