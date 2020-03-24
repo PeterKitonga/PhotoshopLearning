@@ -1,4 +1,4 @@
-## About Lesson 44
+## About Lesson 45
 
 ### Brief
 In this lesson, I learnt about using the mixer brush tool to create realistic looking brush strokes. Using this tool I could adjust the level of wetness of the brush and mixing ratio for the stroke.
