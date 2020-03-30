@@ -1,4 +1,4 @@
-## About Lesson 46
+## About Lesson 47
 
 ### Brief
 In this lesson, I learnt about lighting effects in Photoshop which can be accessed via menu `Filter > Render > Lighting Effects` & `Filter > Render > Lens Flare`. I briefly played around with the lighting effects and later applied a lens flare as illustrated.
