@@ -6,7 +6,7 @@ In this lesson, I learnt about using the Pen Tools which are used to create anch
 - Freeform Pen Tool
 - Add Anchor Point Tool
 - Delete Anchor Point Tool
-- Convert Point Toool
+- Convert Point Tool
 
 ### Illustrations
 Here using the Pen Tool, I would plot anchor points to create a path that would in the end be a shape. This shape is also visible in the Paths Palette
