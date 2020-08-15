@@ -9,7 +9,7 @@ In this illustration, I first created a layer and filled it with black color usi
 
 ![Illustration Example](../assets/images/illustration55.png)
 
-Here I added created a clipping mask to blend the bands layer with the text layer as illustrated. The option of removing the clipping mask is demonstrated as below.
+Here I added a clipping mask to blend the bands layer with the text layer as illustrated. The option of removing the clipping mask is demonstrated as below.
 
 ![Illustration Example](../assets/images/illustration56.png)
 
