@@ -17,7 +17,7 @@ Here, I resized the logo using Transformations (`Ctrl + T`) and dragged it to th
 
 ![Illustration Example](../assets/images/illustration86.png)
 
-After logos were placed, I applied the `Multiply` blending mode to the layer to remove the white backgrounds of the logos and to created a blending effect to the main image.
+After logos were placed, I applied the `Multiply` blending mode to the layer to remove the white backgrounds of the logos and to create a blending effect to the main image.
 
 ![Illustration Example](../assets/images/illustration87.png)
 
