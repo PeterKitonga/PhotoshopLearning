@@ -13,7 +13,7 @@ In this illustration, I revisited the adjustments layer lesson and created an ad
 
 ![Illustration Example](../assets/images/illustration94.png)
 
-In the Properties palette I was able to perform the same adjustments as from the Levels window. This gives me mmore flexibility to come back and readjust the  points when not satisfied with the results. Another advantage to the adjustments layer is that one can simply delete or toggle it off if he/she no longer needs it.
+In the Properties palette I was able to perform the same adjustments as from the Levels window. This gives me more flexibility to come back and readjust the  points when not satisfied with the results. Another advantage to the adjustments layer is that one can simply delete or toggle it off if he/she no longer needs it.
 
 ![Illustration Example](../assets/images/illustration95.png)
 
