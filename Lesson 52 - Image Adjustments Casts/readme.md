@@ -21,7 +21,7 @@ Here, I used the Hue/Saturation image adjustment where I selected the yellow col
 
 ![Illustration Example](../assets/images/illustration99.png)
 
-Here, I use the Photo filter adjustment layer and selected the color filter option. Using the color filter window I selected a blue color filter and increased the density using the slider.
+Here, I used the Photo filter adjustment layer and selected the color filter option. Using the color filter window I selected a blue color filter and increased the density using the slider.
 
 ![Illustration Example](../assets/images/illustration100.png)
 
