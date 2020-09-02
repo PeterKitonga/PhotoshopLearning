@@ -5,7 +5,7 @@ In this lesson, I learnt about creating a 3D object from the various photoshop 3
 
 ### Illustrations
 
-In this illustration, I learnt created a 3D object from a Soda preset in photoshop. I got to play around with the various 3D modes on the options bar and adjusted the light source to my liking.
+In this illustration, I created a 3D object from a Soda preset in photoshop. I got to play around with the various 3D modes on the options bar and adjusted the light source to my liking.
 
 ![Illustration Example](../assets/images/illustration101.png)
 
