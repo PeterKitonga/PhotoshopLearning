@@ -1,4 +1,4 @@
-## About Lesson 54
+## About Lesson 55
 
 ### Brief
 In this lesson, I learnt about HDR tonning image adjustment. This tool lets you apply the full range of HDR(High Dynamic Range) contrast and exposure settings to images. It can be accessed via the menu `Image > Adjustments > HDR Toning`.
