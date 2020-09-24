@@ -1,7 +1,7 @@
 ## About Lesson 21
 
 ### Brief
-In this lesson, I learnt about using the Type Tool which one would use to add to an image. There are 4 types of Type Tools namely:
+In this lesson, I learnt about using the Type Tool which one would use to add text to an image. There are 4 types of Type Tools namely:
 - Horizontal Type Tool
 - Vertical Type Tool
 - Horizontal Type Mask Tool
