@@ -8,7 +8,7 @@ Here I created an adjustment layer(Black & White) from the loaded selection in t
 
 ![Illustration Example](../assets/images/illustration47.png)
 
-In this illustration, I switched from the Layer thumbnail to the Layer mask thumbnail which allowed me to apply adjustments to the mask. Under the Properties palette, I switched to the Masks properties tab and adjust the mask properties.
+In this illustration, I switched from the Layer thumbnail to the Layer mask thumbnail which allowed me to apply adjustments to the mask. Under the Properties palette, I switched to the Masks properties tab and adjusted the mask properties.
 
 ![Illustration Example](../assets/images/illustration48.png)
 
