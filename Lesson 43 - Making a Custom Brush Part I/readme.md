@@ -1,7 +1,7 @@
 ## About Lesson 43
 
 ### Brief
-In this lesson, I learnt about creating a custom brush preset from an image. I first opened an image and selected the wanted sections of the image and using it to create the brush preset.
+In this lesson, I learnt about creating a custom brush preset from an image. I first opened an image, selected the wanted sections of the image and used it to create the brush preset.
 
 ### Illustrations
 
