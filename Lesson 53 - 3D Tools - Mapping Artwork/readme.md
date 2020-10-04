@@ -9,7 +9,7 @@ In this illustration, I created a 3D object from a Soda preset in photoshop. I g
 
 ![Illustration Example](../assets/images/illustration101.png)
 
-Here, I added artwork to the 3D object by double clicking on the label material which opened in a new window as a layer. This is where I coppied and pasted artwork and scale it to the height of the label material.
+Here, I added artwork to the 3D object by double clicking on the label material which opened in a new window as a layer. This is where I copy-pasted the artwork and scaled it to the height of the label material.
 
 ![Illustration Example](../assets/images/illustration102.png)
 
