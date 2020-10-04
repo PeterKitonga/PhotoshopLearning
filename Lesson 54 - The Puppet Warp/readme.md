@@ -1,7 +1,7 @@
 ## About Lesson 54
 
 ### Brief
-In this lesson, I learnt about the puppet warp tool which is used to distort pecific areas of an image. This tool can be accessed via the menu `Edit > Puppet Warp`.
+In this lesson, I learnt about the puppet warp tool which is used to distort specific areas of an image. This tool can be accessed via the menu `Edit > Puppet Warp`.
 
 ### Illustrations
 
