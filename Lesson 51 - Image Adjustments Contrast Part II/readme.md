@@ -1,7 +1,7 @@
 ## About Lesson 51
 
 ### Brief
-In this lesson, I learnt about using the Curves image adjustment accessed via menu `Image > Adjustments > Curves`. The curves image adjustment is similar in purpose as the Levels adjustments but has more customization for the Gray point where one plots points in the line as illustrated below and drags the plot points to the desire position. This adjustment is far more complex to use compared to the Levels adjustments and needs a clear understanding of what one wants to achieve.
+In this lesson, I learnt about using the Curves image adjustment accessed via menu `Image > Adjustments > Curves`. The curves image adjustment is similar in purpose as the Levels adjustments but has more customization for the Gray point where one plots points in the line as illustrated below and drags the plot points to the desired position. This adjustment is far more complex to use compared to the Levels adjustments and needs a clear understanding of what one wants to achieve.
 
 ### Illustrations
 
