@@ -13,7 +13,7 @@ I then opened an image that would house the action results to be performed later
 
 ![Illustration Example](../assets/images/illustration110.png)
 
-Here, I applied an black and white image adjustment to the opened image. I then saved the image in a folder that will house the end results and closed it. All these actions were being recorded for use under the Actions palette.
+Here, I applied a black and white image adjustment to the opened image. I then saved the image in a folder that will house the end results and closed it. All these actions were being recorded for use under the Actions palette.
 
 ![Illustration Example](../assets/images/illustration111.png)
 
